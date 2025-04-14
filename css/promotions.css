@@ -11,6 +11,7 @@
     justify-content: center;
     justify-items: center;
     align-items: center;
+    align-content: center;
 }
 
 .promotion-card{
@@ -29,8 +30,10 @@
     color: #2e2d2d;
     padding-top: 40px;
     font-size: 20px;
+    padding-bottom: 10px;
 }
 .promotion-text{
+    display: none;
     font-size: 16px;
     color: #4a4a4a;
     width: 80%;

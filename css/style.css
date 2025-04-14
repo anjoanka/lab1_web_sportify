@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Montserrat", sans-serif;
-    
+
 }
 
 nav{
@@ -52,6 +52,7 @@ nav ul li a:hover{
     color: aliceblue;
     font-size: 30px;
     color: #4a4a4a;
+    color: rgba(139, 115, 75, 0.51);
 }
 
 
